@@ -1,0 +1,5 @@
+ ,grass,"grass.png",permeable,nonpickable
+&,stone,"stone.png",nonpermeable,pickable
+#,cliff,"cliff.png",nonpermeable,nonpickable
+O,cave,"cave.png",permeable,nonpickable
+T,tree,"tree.png",nonpermeable,nonpickable
